@@ -14,7 +14,7 @@ export class ChatService {
 
   sendMessage( mensaje: string ){
     const payload = {
-      def: 'Jose',
+      de: 'Jose',
       cuerpo: mensaje
     };
 
