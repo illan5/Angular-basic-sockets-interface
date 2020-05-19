@@ -13,7 +13,7 @@ export class AppComponent {
 
   constructor( 
     public wsService: WebsocketService,
-    public chatService: ChatService
+    //public chatService: ChatService
      ){
 
   }
